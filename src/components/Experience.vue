@@ -5,12 +5,23 @@
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
+          <h3 class="mb-0">CTO</h3>
+          <div class="subheading mb-3">SEO Succor</div>
+          <p>Oversee all development and IT related projects under a Performance Marketing Agency. Build websites and web applications using WordPress, PHP, Javascript, and Firebase. Manage all third-party digital integrations including Asana, Twilio, Cloudways Hosting, and Google Workspace.</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">Februrary 2022 - Present</span>
+        </div>
+      </div>
+
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="resume-content">
           <h3 class="mb-0">Project Manager</h3>
           <div class="subheading mb-3">SpaceTogether</div>
           <p>Manage tasks among developers, designers and QA using Trello.  We use 2-week sprints to accomplish work regarding new features, bug fixes and improvement of current functionality.</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">January 2021 - Present</span>
+          <span class="text-primary">January 2021 - September 2022</span>
         </div>
       </div>
 
