@@ -9,6 +9,26 @@
       </div>
       <div class="row">
         <div class="col">
+          <div class="card">
+            <div class="row ">
+              <div class="col-md-7 px-3">
+                <div class="card-block px-6">
+                  <h4 class="card-title">Grace Counseling</h4>
+                  <p class="card-text">
+                    Custom WordPress theme built utilizing Divi and monthly SEO. Site was inherited by another agency when the client needed SEO services.  We've completely revamped the entire site.
+                  </p>
+                  <a href="https://agracehopecounseling.com/" target="_blank" class="mt-auto">View Site</a>
+                </div>
+              </div>
+              <div class="col-md-5">
+                <img class="d-block" src="../assets/images/grace-counseling.png" alt="Grace Counseling home page">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
           <div class="card float-right">
             <div class="row">
               <div class="col-sm-5">
